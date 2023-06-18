@@ -11,11 +11,10 @@ body
 {
 	background: #5e4b23;
 	color: #000000;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
-	font-family: 'Poppins', sans-serif;
 }
 
 .body > boton-regresar
