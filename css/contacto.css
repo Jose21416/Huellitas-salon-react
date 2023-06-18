@@ -17,6 +17,20 @@ body {
     padding: 1.5em;
 }
 
+.button 
+{
+	text-align: center;
+	padding: 0.25em 1em;
+	background-color: #B70E21;
+	border-radius: 2rem;
+	color: rgb(233, 223, 223);
+	font-size: 1rem;
+	font-weight: 700;
+	text-decoration: solid;
+	margin: 0.5cm;
+    position: absolute;
+}
+
 ul {
     list-style: none;
     padding: 0;
