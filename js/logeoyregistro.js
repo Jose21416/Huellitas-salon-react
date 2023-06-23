@@ -34,7 +34,7 @@ function mostrarMensajeCondicional() {
     // Redirigir a otro archivo HTML después de 3 segundos
   setTimeout(function() {
     window.location.replace("../index.html"); // Cambia el nombre del archivo HTML al que deseas redirigir
-  }, 1000); // 1000 milisegundos = 1 segundo
+  }, 2000); // 2000 milisegundos = 2 segundo
   }
 }
 
